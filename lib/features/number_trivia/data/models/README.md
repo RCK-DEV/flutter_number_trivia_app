@@ -1,4 +1,4 @@
-# Models
+# Data models
 
 - Inherits from entities,
   contains additional methods toJSON and fromJSON.

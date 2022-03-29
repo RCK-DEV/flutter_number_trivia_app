@@ -1,6 +1,6 @@
 # flutter_number_trivia_app
 
-A new Flutter project.
+A Flutter project implementing Clean Architecture and TDD.
 
 ## Getting Started
 
